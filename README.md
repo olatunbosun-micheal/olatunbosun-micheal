@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Flutter, mySQL**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
