@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **NLP Projects.**
 
-- 💬 Ask me about **AI, ML, Python, **
+- 💬 Ask me about **AI, ML, Python**
 
 - 📫 How to reach me **michealolatunbosun368@gmail.com**
 
