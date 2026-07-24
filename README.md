@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Micheal Adeolu OLATUNBOSUN</h1>
-<h3 align="center">A passionate Data Scientist.</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt = "Coding" width = "400" src= "https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatunbosun-micheal&label=Profile%20views&color=0e75b6&style=flat" alt="olatunbosun-micheal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imichealtweets" target="blank"><img src="https://img.shields.io/twitter/follow/imichealtweets?logo=twitter&style=for-the-badge" alt="imichealtweets" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Multilingual AI Projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **Data Science projects.**
+- 👯 I’m looking to collaborate on **NLP Projects.**
 
-- 💬 Ask me about **SQL, PowerBI, Python, **
+- 💬 Ask me about **AI, ML, Python, **
 
 - 📫 How to reach me **michealolatunbosun368@gmail.com**
 
