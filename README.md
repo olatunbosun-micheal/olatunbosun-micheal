@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/imichealtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imichealtweets" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/micheal-olatunbosun-746521223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Micheal Olatunbosun LinkedIn" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/micheal-olatunbosun-746521223/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=rAknZ5cAAAAJ" target="blank"><img align="center" src="npx @thesvg/cli add google-scholar" alt="Google Scholar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/molatun34w6#!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/molatun34w6#!" height="30" width="40" /></a>
 </p>
 
