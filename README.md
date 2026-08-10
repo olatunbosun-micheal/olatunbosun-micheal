@@ -3,7 +3,7 @@
 <img align="right" alt = "Coding" width = "400" src= "https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatunbosun-micheal&label=Profile%20views&color=0e75b6&style=flat" alt="olatunbosun-micheal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imichealtweets" target="blank"><img src="https://img.shields.io/twitter/follow/imichealtweets?logo=twitter&style=for-the-badge" alt="imichealtweets" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ma_olatunbosun" target="blank"><img src="https://img.shields.io/twitter/follow/ma_olatunbosun?logo=twitter&style=for-the-badge" alt="ma_olatunbosun" /></a> </p>
 
 - 🔭 I’m currently working on **Multilingual AI Projects**
 
